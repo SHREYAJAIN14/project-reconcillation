@@ -1,0 +1,7 @@
+pandas
+networkx
+openai
+langchain
+faiss-cpu
+python-dotenv
+fuzzywuzzy
